@@ -17,7 +17,7 @@ export function header({ homePath, githubURL = '' }) {
     ...darkMode(),
     {
       menu: true,
-      href: 'https://github.com/jaywcjlove/reference',
+      href: 'https://github.com/huxuezhi/reference',
       target: '__blank',
       children: [github],
     },
